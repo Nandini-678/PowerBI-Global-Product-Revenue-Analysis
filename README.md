@@ -1,28 +1,22 @@
-# Sales & Profit Analysis Dashboard - Power BI
+# Global Revenue Intelligence Dashboard - Power BI
 
-This Power BI dashboard provides a comprehensive analysis of global sales performance and profitability across product categories, market segments, and countries.
+This dashboard evaluates global product sales data across multiple stores, time periods, and geographies.
 
-## 📊 Key Insights:
-- KPIs: Gross Sales, Revenue, Units Sold, and Profit Margin %
-- Profit trends by product and quarter
-- Sales distribution by customer segment and product
-- Profit margin comparison across countries
-- Interactive decomposition tree: Country → Segment → Product
+## 📌 Objective
+To identify top-performing products and peak revenue periods across countries, ranks, and quarters.
 
-## 🧠 Tools & Techniques:
-- Power BI Desktop
-- DAX measures
-- Decomposition Tree visual
-- Interactive slicers and filters
+## 📊 Features
+- Dual-axis monthly trend: Total Revenue vs Average Revenue
+- Regional sales breakdown with donut and bar charts
+- Product vs Rank-wise stacked area chart
+- Quarterly revenue trends
+- Dynamic filters for year, rank, and quarter
 
-## 📁 Files Included:
-- `Sales_Profit_Analysis_Dashboard.pbix` – Power BI report file
-- `dashboard.png` – Snapshot of the final dashboard
+## 🛠 Tools Used
+- Power BI
+- DAX (for revenue, averages, and rankings)
+- Synthetic global sales dataset
 
-## 🏁 Outcome:
-This dashboard enables stakeholders to quickly identify top-performing products, understand revenue contribution by market, and evaluate margin performance across geographies.
-
----
 
 ## 🖼️ Dashboard Preview:
 
